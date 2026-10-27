@@ -4,8 +4,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 $active_group = 'default';
 $query_builder = TRUE;
 $hostname ='localhost';
-$username ='wita';
-$password ='Xxlvi1Y79t@vfozl';
+$username ='root';
+$password ='';
 $database ='coba_neobilling';	
 
 $db['default'] = array(
